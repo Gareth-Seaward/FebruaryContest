@@ -8,7 +8,7 @@ namespace FebruaryContestEntry
 
 		static void Main(string[] args)
 		{
-			// The solution implementation goes here
+			ConsoleRectangle.Draw(30, 15, block.ToString());
 
 			Console.ResetColor();
 			Console.WriteLine();
